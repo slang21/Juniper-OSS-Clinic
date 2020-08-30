@@ -14,8 +14,9 @@
 #### Alternatively, FreeBSD or OpenBSD
 
 ## Glossary:
-[Transmission Control Protocol (TCP)](https://tools.ietf.org/html/rfc793#page-15)
-[IPv6](https://tools.ietf.org/html/rfc8200)
+#### [Transmission Control Protocol (TCP)](https://tools.ietf.org/html/rfc793#page-15)
+#### [IPv6](https://tools.ietf.org/html/rfc8200)
+#### [BGP](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
 
 Submitting Linux Patches
 https://kernelnewbies.org/FirstKernelPatch
